@@ -1,0 +1,3 @@
+[submodule "gtm-session-fetcher"]
+	path = gtm-session-fetcher
+	url = ssh://git@github.com/google/gtm-session-fetcher
